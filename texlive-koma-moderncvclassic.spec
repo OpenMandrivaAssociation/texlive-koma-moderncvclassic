@@ -1,3 +1,9 @@
+# revision 24224
+# category Package
+# catalog-ctan /macros/latex/contrib/koma-moderncvclassic
+# catalog-date 2011-10-06 16:33:46 +0200
+# catalog-license lppl1.3
+# catalog-version v0.4
 Name:		texlive-koma-moderncvclassic
 Version:	v0.4
 Release:	1
@@ -44,6 +50,7 @@ moderncv-class is incompatible with biblatex.
 %doc %{_texmfdistdir}/doc/latex/koma-moderncvclassic/changelog
 %doc %{_texmfdistdir}/doc/latex/koma-moderncvclassic/cvbasic.pdf
 %doc %{_texmfdistdir}/doc/latex/koma-moderncvclassic/cvbasic.tex
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -54,3 +61,5 @@ moderncv-class is incompatible with biblatex.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
