@@ -1,12 +1,12 @@
-# revision 24224
+# revision 25025
 # category Package
 # catalog-ctan /macros/latex/contrib/koma-moderncvclassic
-# catalog-date 2011-10-06 16:33:46 +0200
+# catalog-date 2012-01-05 01:27:26 +0100
 # catalog-license lppl1.3
-# catalog-version v0.4
+# catalog-version v0.5
 Name:		texlive-koma-moderncvclassic
-Version:	v0.4
-Release:	2
+Version:	v0.5
+Release:	1
 Summary:	Makes the style and command of moderncv (style classic) available for koma-classes and thus compatible with biblatex
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/koma-moderncvclassic
