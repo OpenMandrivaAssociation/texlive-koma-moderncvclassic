@@ -6,8 +6,8 @@
 # catalog-version v0.5
 Name:		texlive-koma-moderncvclassic
 Version:	v0.5
-Release:	1
-Summary:	Makes the style and command of moderncv (style classic) available for koma-classes and thus compatible with biblatex
+Release:	2
+Summary:	An imitation of the moderncv class with the classic style
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/koma-moderncvclassic
 License:	LPPL1.3
