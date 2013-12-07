@@ -6,7 +6,7 @@
 # catalog-version v0.5
 Name:		texlive-koma-moderncvclassic
 Version:	v0.5
-Release:	5
+Release:	6
 Summary:	An imitation of the moderncv class with the classic style
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/koma-moderncvclassic
