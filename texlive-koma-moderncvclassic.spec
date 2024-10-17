@@ -3,7 +3,7 @@ Version:	25025
 Release:	2
 Summary:	An imitation of the moderncv class with the classic style
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/koma-moderncvclassic
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/koma-moderncvclassic
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/koma-moderncvclassic.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/koma-moderncvclassic.doc.r%{version}.tar.xz
